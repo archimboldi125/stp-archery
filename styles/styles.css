@@ -1,0 +1,144 @@
+
+img {
+  margin-top: -20px;
+margin-left: -20px;
+margin-right: -20px;
+}
+
+  
+.mainnav {
+background-color: #1F5138;
+margin-top: -20px;
+margin-left: -20px;
+margin-right: -42px;
+height: 50px;
+list-style: none;
+}
+
+
+.mainnav ul li {
+   display: inline;
+  text-align: center;
+}
+
+.mainnav a {
+  float: left;
+    color: #7DA1A8;
+   padding: 15px 20px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Hind Guntur', sans-serif;
+}
+
+a:hover{color: #F7481B;
+  }
+
+h1 {font-size: 30px;
+    font-family: 'Hind Guntur', sans-serif;
+  color: #1F5138;
+text-align: center;
+  margin-top:5%;
+margin-bottom:1%;}
+
+.articlehp { margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Hind Guntur', sans-serif;
+  text-align: justify;
+  justify-content:space-around;
+  border-top: solid;
+  border-bottom: solid;
+  border-bottom-color:  #F7481B;
+  border-top-color:  #F7481B;
+  border-bottom-width: medium;
+  margin-bottom: 4%;
+  }
+
+.articleimg {
+padding-top: 3%;
+padding-bottom: 3%;
+margin-left: 43%;
+margin-right:40%;}
+
+a {text-decoration: none;
+font-family: 'Hind Guntur', sans-serif;
+color: #7DA1A8;
+font-size: 18px;}
+
+
+li {list-style: none;
+padding-left: 5%;
+}
+
+footer {
+  background-color:  #1F5138;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: -20px;
+  text-decoration: none;
+  font-family: 'Hind Guntur', sans-serif;
+  color: #7DA1A8;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: 12px;
+  line-height: 15px;
+  
+}
+.column {
+    float: left;
+    width: 25%;
+  margin-left: 5%;
+  padding-left: 3%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+i {padding-right: 10px;
+color: #CB983E;}
+
+.paddingfun {padding-top: 5%;}
+
+.extraspace {margin-left: 5%;}
+
+
+h4 {font-family: 'Hind Guntur', sans-serif;
+  color: #1F5138;
+font-size: 18px;
+text-align: center;
+border-bottom: solid #F7481B;}
+
+.instructorimg {padding-top: 5%;}
+
+.pinstructor{font-family: 'Hind Guntur', sans-serif;
+font-size: 15px;
+line-height: 15px;
+text-align: justify;
+justify-content: space-between;}
+
+.divinstruct{margin-left: 25%;
+margin-right: 25%;
+padding-bottom: 3%;
+text-align: center;}
+
+h5 {font-family: 'Hind Guntur', sans-serif;
+  color: #1F5138;
+font-size: 18px;
+  text-align: center;
+margin-bottom: -3px;
+}
+
+.pprivate {line-height: 10px;
+text-align: center;
+}
+
+.privateimg {margin-left: 5%;
+  padding-left: 5%;
+  margin-top: 8%;
+}
+
+.left {float: left;}
+.right {float:right;}
+.clear {clear: both;}
