@@ -1,6 +1,6 @@
 
-img {
-  margin-top: -20px;
+.bannerimg {width: 103%;
+margin-top: -20px;
 margin-left: -20px;
 margin-right: -20px;
 }
@@ -10,9 +10,10 @@ margin-right: -20px;
 background-color: #1F5138;
 margin-top: -20px;
 margin-left: -20px;
-margin-right: -42px;
-height: 50px;
+margin-right: -20px;
+height: 3rem;
 list-style: none;
+border-bottom: 3px solid #F7481B;
 }
 
 
@@ -142,3 +143,46 @@ text-align: center;
 .left {float: left;}
 .right {float:right;}
 .clear {clear: both;}
+
+.pclassespricess{text-align: justify;
+border-top: solid;
+border-top-color:#F7481B;
+padding-top: 2%;
+justify-content: space-between;
+font-family: 'Hind Guntur', sans-serif;
+color: #1F5138;
+font-size: 14px;
+line-height: 15px;
+margin-bottom: 1px;}
+
+.highlight {font-size: 20px;
+color:#F7481B;
+font-family: 'Hind Guntur', sans-serif;
+margin-bottom:1px;}
+
+.pclassespricess2{
+text-align: left;
+font-family: 'Hind Guntur', sans-serif;
+color: #1F5138;
+font-size: 14px;
+margin-top: 0;
+line-height: 15px;
+  
+}
+
+.h5classes {margin-top:3px;}
+
+
+
+.homepagep{font-family: 'Hind Guntur', sans-serif;
+color: #1F5138;
+text-align: center;
+font-size: 60px;
+line-height: 85%;
+margin-top: 20px;
+margin-bottom:10px;
+}
+
+.hmnames{text-align: center;
+margin-top: none;
+font-style: italic;}
